@@ -1,0 +1,7 @@
+name: lunch-time
+recipe: laravel
+config:
+  webroot: public
+  php: '8.0'
+  via: nginx
+  database: mariadb
